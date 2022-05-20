@@ -1,6 +1,6 @@
 # Surfs_Up
 
-## Overview
+## Overview of the Analysis
 Project to gether and analyze temperature data in Oahu, Hawaii for the months of June and December to determine whether a surf shop will be sustainable year round.
 
 ## Results
@@ -15,4 +15,4 @@ Project to gether and analyze temperature data in Oahu, Hawaii for the months of
 ## Summary
 After analyzing the temperature data results, a conclusion can be made that a surf shop business would do well given the consistent and warm weather observed in the months of June and December. W.Avy and the board of directors can feel confident that Oahu will provide plenty of warm days throughout the year for surfing and ice cream. 
 
-Recommended additional queries would be to analyze the precipitation in different months throughout the year. An additional query to analyze winds around Oahu and the north Pacific would provide additional insight into the best surfing time of year since wind is a contributing factor of large swells. 
+Recommended additional queries would be to analyze the precipitation in different months throughout the year. An additional query to analyze winds around Oahu would provide additional insight into the best surfing months since wind is a contributing factor of large swells. 
